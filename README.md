@@ -1,4 +1,4 @@
-#Airbnb Apartment Pricing Prediction using Logistic Regression
+# Airbnb Apartment Pricing Prediction using Logistic Regression
 
 ## Table of Contents
 - [Introduction](#introduction)
